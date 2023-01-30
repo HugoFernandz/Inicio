@@ -22,7 +22,7 @@
 </div>
 
 <div align="center"> 
-<a href="https://fernandzdesenvolvimento.com/" target="_blank"><img src="https://img.shields.io/badge/website-up-brightgreen"</a>
+<a href="https://fernandzdesenvolvimento.com/" target="_blank"><img src="https://img.shields.io/badge/-Web%20Site-%23E4405F?style=for-the-badge&logoColor=white"</a>
 <a href = "mailto:victorfernandes245@hotmail.com"> <img src="https://img.shields.io/badge/-OUTLOOK-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="http://www.linkedin.com/in/victor-fernandes-a971a1214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
